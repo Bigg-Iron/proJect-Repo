@@ -1,2 +1,2 @@
 # proJect-Repo
-Repository for new Project.
+Main repository for new proJect.
